@@ -4,6 +4,15 @@
 
 This document outlines the specifications and expected functionality for the User Management API. The API uses SQL as the underlying database and provides endpoints for inviting users, signing up, logging in, logging out, and editing user details.
 
+## Installation
+
+```bash
+git clone https://github.com/Binbasri-in/ieee_backend_task
+cd ieee_backend_task
+pip install -r requirements.txt
+flask run
+```
+
 # API Documentation
 
 ## 1. Signup
