@@ -1,0 +1,15 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.search-bar {
+    margin: 20px 0;
+}
+
+.categories {
+    margin-bottom: 20px;
+}
+
+.video-card {
+    margin-bottom: 20px;
+}
